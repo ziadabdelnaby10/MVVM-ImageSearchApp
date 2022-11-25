@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ImageSearchApp</string>
+    <string name="this_is_the_main_image">This is the Main Image</string>
+    <string name="home">Home</string>
+    <string name="search_image">Search Image</string>
+    <string name="saved">Saved</string>
+    <string name="data_error">Unable To Load Data</string>
+    <string name="retry">Retry</string>
+    <string name="search">Search</string>
+    <string name="results_could_not_be_loaded">Results could not be loaded</string>
+    <string name="no_results_found_for_this_query">No results found for this query</string>
+    <string name="no_description">Sorry but there is no Description for this Photo</string>
+    <string name="unsplash">صــــورة</string>
+    <string name="unsplash_desc">The best free stock photos shared by talented creators.</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+</resources>

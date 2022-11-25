@@ -1,0 +1,21 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.ImageSearchApp" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <!--<item name="colorPrimary">#212121</item>-->
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryVariant">#000000</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#263238</item>
+        <item name="colorSecondaryVariant">#000a12</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">?attr/colorPrimaryDark</item>
+        <item name="android:windowBackground">?attr/colorPrimaryVariant</item>
+        <item name="android:buttonTint">?attr/colorSecondary</item>
+    </style>
+</resources>
