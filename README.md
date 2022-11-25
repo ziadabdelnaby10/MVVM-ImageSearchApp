@@ -114,4 +114,4 @@ e) Built-in support for error handling, including refresh and retry capabilities
 `RemoteMediator` - helps implement pagination from network and database.
 
 #Navigation Component Graph
-!(https://github.com/ziadabdelnaby10/MVVM-ImageSearchApp/navigation)
+![navigation](https://user-images.githubusercontent.com/38537133/203988917-7747aeca-b1cb-43a0-8d37-ca90792d0c7b.png)
