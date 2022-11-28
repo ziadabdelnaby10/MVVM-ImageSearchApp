@@ -13,7 +13,7 @@ a simple app to practice on some new topics created by [Coding In Flow](https://
 - Single Activity Architecture
 
 ##Demo
-![Demo](https://drive.google.com/file/d/13CsIuNzWV_TqXtv0YhqTvE4G1Ug101ut/view?usp=sharing)
+[Demo](https://drive.google.com/file/d/13CsIuNzWV_TqXtv0YhqTvE4G1Ug101ut/view?usp=sharing)
 
 ### Dependencies
 
